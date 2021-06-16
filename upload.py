@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 
 import pandas as pd
 
-# Same as the "Site Code" of your station on MMW.org
+# Same as the "Site Code" of your station at MonitorMyWatershed.org/site/_____
 upload_site = " "
 
 # Copy the name of the file you uploaded into the Binder folder. Be sure to add ./ to the beginning and .csv at the end
